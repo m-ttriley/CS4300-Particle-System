@@ -1,2 +1,11 @@
 # CS4300-Particle-System
-Used Processing to write a rigid-body particle system for CS4300. Detects collisions and has particles bounce off one another using some physics stuff.
+To write this rigid body particle system, I used Processing 3.0 with Java. No additional
+plugins were used. 
+
+A full code walkthrough is available in rigidbodies.pdf at the top level of this repo.
+
+Some screetshots of the simulation:
+
+![particles 1](particles_shot_1.png)
+
+![particles 2](particles_shot_2.png)
